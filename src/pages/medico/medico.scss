@@ -1,0 +1,37 @@
+.btn-horario {
+    padding:12px;
+    padding-left: 8px;
+    width: 100%;
+    font-size: 18px;
+    color: white;
+}
+
+.btn-horario:active {
+    background:  #2a8000;
+}
+
+.verde {
+    background: #44cc00;
+    color: white;
+}
+
+.vermelho {
+    background: red;
+    color: white;
+}
+
+.vermelho:active {
+    background: #990000;
+}
+
+p{
+    font-size: 15px;
+}
+
+.fonteverde{
+    color: #44cc00;
+}
+
+.fontevermelha{
+    color: red;
+}
