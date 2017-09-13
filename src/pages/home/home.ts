@@ -8,8 +8,8 @@ import { NavController } from 'ionic-angular';
 export class HomePage {
 
   constructor(public navCtrl: NavController) {
-    this.navCtrl.setRoot(HomePage);
-
   }
-
-}
+    teste(){
+    this.navCtrl.setRoot(HomePage);
+  }
+  }
